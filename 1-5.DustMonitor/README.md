@@ -1,14 +1,15 @@
 # Dependency
 
   Download below source in library manager
-  DHT sensor library for ESPx
+  PMS Library 
+  u8g2 library
 
 # ESP32-ESP8266
 
    This is ESP32, ESP8266 Basic Example. 
    https://blog.naver.com/milkysc/221722387725
    
-   1-1.DHT11, DHT22 TempHumi Sensor
+   1-5.DustMonitor
 
 # To contact the authors:
 
