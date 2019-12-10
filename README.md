@@ -6,13 +6,11 @@ This is ESP32, ESP8266 Basic Example.
    https://blog.naver.com/milkysc/221722387725
    
    1-1. DHT11, DHT22 TempHumi Sensor
-
    1-2. Sound Sensor
-
    1-3. Dust Sensor
-
+   1-4.OLED
+   1-5.DustMonitor
    2-1. TCP/IP Socket Communication
-
    2-2. ThingSpeak Application for IOT 
 
 
