@@ -15,6 +15,14 @@ This is ESP32, ESP8266 Basic Example.
    
    1-5.DustMonitor
    
+   1-6.AudioPowerAmp
+   
+   1-7.AudioSpectrumAnalizer
+   
+   1-8.9_Axis_GyroSensor
+   
+   1-9.MPU9250_3D_Monitor
+   
    2-1. TCP/IP Socket Communication
    
    2-2. ThingSpeak Application for IOT 
