@@ -1,9 +1,3 @@
-# Dependency
-
-  Download below source
-  
-  https://github.com/kosme/arduinoFFT
-
 # ESP32-ESP8266
 
    This is ESP32, ESP8266 Basic Example. 
