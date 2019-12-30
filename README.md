@@ -27,6 +27,8 @@ This is ESP32, ESP8266 Basic Example.
    
    2-2. ThingSpeak Application for IOT 
    
+   2-3.BluetoothSerial
+   
 
 
 # To contact the authors:
