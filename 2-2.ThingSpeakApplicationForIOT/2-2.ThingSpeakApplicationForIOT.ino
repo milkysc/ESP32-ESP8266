@@ -8,13 +8,13 @@
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
-char ssid[] = "본인SSID";   // your network SSID (name) 
-char pass[] = "SSID패스워드";   // your network password
+char ssid[] = "yourssid";   // your network SSID (name) 
+char pass[] = "yourpassword";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber = 채널넘버;
-const char * myWriteAPIKey = "본인APIKey";
+unsigned long myChannelNumber = channelnumber;
+const char * myWriteAPIKey = "yourAPIKey";
 
 // Initialize our values
 int number1 = 0;
