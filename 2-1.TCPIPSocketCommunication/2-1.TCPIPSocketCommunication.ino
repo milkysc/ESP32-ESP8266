@@ -1,9 +1,9 @@
 #include <WiFi.h>
 
-const char* ssid = "본인SSID";
-const char* password = "SSID패스워드";
+const char* ssid = "yourssid";
+const char* password = "yourpassword";
 const uint16_t port = 12345;
-const char * host = "서버IP";
+const char * host = "serverip";
 
 WiFiClient client;
 void setup()
