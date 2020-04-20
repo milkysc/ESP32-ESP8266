@@ -31,6 +31,10 @@ This is ESP32, ESP8266 Basic Example.
    
    2-4.DatalogandGraph
    
+   2-05.LoRASender
+   
+   2-06.LoRAReceiver
+   
 
 
 # To contact the authors:
