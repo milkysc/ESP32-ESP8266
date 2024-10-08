@@ -17,7 +17,3 @@ If you need to develop H/W, F/W, S/W or have a question
 
 contact us : kschquf@gmail.com
 
-
-# Donations
-
-BTC : 3DPd8xEB5QcU6WtKp6VxRDCr2bUt2AnJh7
