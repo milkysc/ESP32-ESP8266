@@ -41,5 +41,5 @@ This is ESP32, ESP8266 Basic Example.
 
 If you need to develop H/W, F/W, S/W or have a question
 
-contact us : kschquf@gmail.com
+contact us : ssung7351@gmail.com
 
